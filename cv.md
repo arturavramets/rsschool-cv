@@ -7,9 +7,9 @@
 ## About me:
 * I'm starting my way as a front-end developer at RSSchool. During the training I plan to get the maximum practical experience and knowledge.
 ## Skills
-1. **HTML**
-2. **CSS**
-3. **JavaScript**
+* **HTML**
+* **CSS**
+* **JavaScript**
 ## Work experience:
 * Not yet.
 ## Language:
