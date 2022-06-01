@@ -5,7 +5,7 @@
 #### **GitHub:** [arturavramets](https://github.com/arturavramets)
 ***
 ## About me:
-* I'm starting my way as a front-end developer at RSSchool.
+* I'm starting my way as a front-end developer at RSSchool. During the training I plan to get the maximum practical experience and knowledge.
 ## Skills
 1. **HTML**
 2. **CSS**
