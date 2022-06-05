@@ -1,1 +1,1 @@
-https://arturavramets.github.io/rsschool-cv/cv
+https://arturavramets.github.io/rsschool-cv/
